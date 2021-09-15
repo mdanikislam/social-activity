@@ -1,0 +1,17 @@
+.imageStyle {
+    height: 300px;
+    position: relative;
+}
+
+.titleStyle {
+    color: #fff;
+    position: absolute;
+    width: 89.5%;
+    height: 82px !important;
+    bottom: -20px;
+    left: 15px;
+    border-radius: 0 0 10px 10px;
+    font-size: 20px;
+    padding: 8px 30px;
+    text-align: center;
+}
